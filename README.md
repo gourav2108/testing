@@ -1,1 +1,1 @@
-# testing
+input(int())# testing
